@@ -1,0 +1,14 @@
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.exe
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.deps.json
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.runtimeconfig.json
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.runtimeconfig.dev.json
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\bin\Debug\netcoreapp3.1\FactoryPatternExercise2.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.csproj.AssemblyReference.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.AssemblyInfoInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.AssemblyInfo.cs
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.csproj.CoreCompileInputs.cache
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.dll
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.pdb
+C:\Users\dchuv\OneDrive\Desktop\repos\FactoryPatternExercise2\FactoryPatternExercise2\obj\Debug\netcoreapp3.1\FactoryPatternExercise2.genruntimeconfig.cache
